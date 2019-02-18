@@ -1,5 +1,8 @@
 # EPCI
-This is the source code with a Matlab based GUI implementation of EPCI, the permeability index introduced in the paper.
+
+This is the source code with a Matlab based GUI implementation of EPCI, the permeability index introduced in the paper [1].
+
+[1] H. Sun , H. Al-Marzouqi , and S. Vega EPCI: A New Tool for Predicting Absolute Permeability from CT images. GEOPHYSICS, 2019.
 
 Data used in the experiments can be downloaded from the following links:
 1. Carbonate samples: https://figshare.com/s/d3816fda47ba7212cc48
